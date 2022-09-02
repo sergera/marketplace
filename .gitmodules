@@ -7,3 +7,6 @@
 [submodule "marketplace-vendor-edge-api"]
 	path = marketplace-vendor-edge-api
 	url = git@github.com:sergera/marketplace-vendor-edge-api.git
+[submodule "marketplace-vendor-edge-worker"]
+	path = marketplace-vendor-edge-worker
+	url = git@github.com:sergera/marketplace-vendor-edge-worker.git
