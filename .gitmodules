@@ -4,3 +4,6 @@
 [submodule "marketplace-web"]
 	path = marketplace-web
 	url = git@github.com:sergera/marketplace-web.git
+[submodule "marketplace-vendor-edge-api"]
+	path = marketplace-vendor-edge-api
+	url = git@github.com:sergera/marketplace-vendor-edge-api.git
